@@ -1,5 +1,5 @@
-# react-unite-checkin
-Check-in App developed using React 
+# react-unite-Pass-in
+Pass-in App developed using React 
 
 ## Front-end project developed during Rocketseat's NLW - UNITE
 
