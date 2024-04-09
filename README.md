@@ -33,6 +33,4 @@ The system will scan the participant's credentials to allow entry to the event.
 
 ## Front-end View 
 
-<img width="1280" alt="Screenshot showing the app's home page preview" src="https://github.com/yaradaudt/react-unite-checkin/assets/157490089/cfabefe9-0268-489a-a770-b7e4974c027a">
-
-<img width="1268" alt="Screenshot showing the search mode preview" src="https://github.com/yaradaudt/react-unite-checkin/assets/157490089/4528eb6f-b841-431c-90e1-1f3dea9ae305">
+<img width="1280" alt="Screenshot showing the app's home page preview" src="./public/pass-in-screen.png">
