@@ -20,7 +20,7 @@ The system will scan the participant's credentials to allow entry to the event.
 - Nodejs API
 - URL states
 
-## How to execute the App with Database
+## Install and Run with Back-end
 
 - Clone this repository
 - Download nodejs and npm Installer
